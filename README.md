@@ -2,7 +2,7 @@
 
 Half-Life Addon Manager (HAM) can be used to easily install Half-Life addons.
 
-![License](https://img.shields.io/badge/license-GPL-3.0-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+![License](https://img.shields.io/badge/license-GPL-3.0.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 ## Table of Contents
 
